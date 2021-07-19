@@ -1,0 +1,8 @@
+{
+"quests":[
+  {"name":"Debut", "type":"Elimination", "location":"Customs","given by":"Prapor","Required for
+Kappa":"Yes"},
+  {"name":"Checking", "type":"PickUp", "location":"Customs","given by":"Prapor","Required for
+Kappa":"Yes"},
+]
+}
